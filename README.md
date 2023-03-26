@@ -1,6 +1,8 @@
 # Bar-Chart-Race
 In this repo is the code that produces a bar chart race of the Premier League table
 
+To view the bar chart race video click this link : https://www.linkedin.com/feed/update/urn:li:activity:7045104766741303297/
+
 - Tools: Selenium, sjvizualizer, Pandas
 - Data: premier leauge
 - Repo: https://lnkd.in/dv5Ap9uk
